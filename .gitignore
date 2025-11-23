@@ -9,3 +9,23 @@ expo-env.d.ts
 .env
 .env.local
 .env.*.local
+
+# Node
+node_modules/
+
+# Expo
+.expo/
+dist/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# Xcode
+ios/Pods/
+ios/build/
+
+# Editor
+.vscode/
+.idea/
+node_modules
